@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on 
 Here are some ideas to get you started:
 -->
+LIVE AND DIE BY DREAM
 
 - 🔭 I’m currently working on MY PORTFOLIO WEBSITE
 - 🌱 I’m currently learning C++ AND REACTJS
