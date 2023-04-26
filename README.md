@@ -34,12 +34,11 @@
 <a href="https://twitter.com/Avisekh_sabi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-rgb(29,154,241).svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.instagram.com/sameer.apk/" target="_blank">
+<a href="https://www.instagram.com/avisekh_sabi/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 <hr>
-<br>
 <p align="center"> 
    Visitor Count
  <br/>
