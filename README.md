@@ -19,7 +19,6 @@
 <h4/>
 
 <hr>
-<br>
 <h2 align="center"><img src="https://i.imgur.com/WkC2Lqe.gif" width="100px"></h2>
 <h2 align="center"><b>Connect With Me</b></h2>
 <div align="center">
