@@ -1,36 +1,29 @@
 <h1><b>I'm Avisekh Sabi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
 <h4>A 19-year-old <b>web-developer</b> with expertise in <b>ReactJs</b> and <b>C++</b> . I have a solid understanding of JavaScript and TypeScript, and basic knowledge of Python.<h4>
 <br>
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 <hr>
+<div>
 
 ## **I'm Currently**
+
+<img align="right" alt="coding" width="200" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" >
 
 - <h4>Working on <a href="https://github.com/avisekh3110/mywebsite">My Portfolio Website</a> 👨‍💻
 - <h4>Learning C++ and ReactJs 🤘
 - <h4>Coding With Snacks 😋
 - <h4>Watching Anime 👻
 - <h4>Looking for Opportunities 👀
+  </div>
+  <hr>
+  <h2 align="center"><img src="https://i.imgur.com/WkC2Lqe.gif" width="100px"></h2>
+  <h2 align="center"><b>Connect With Me</b></h2>
+  <div align="center">
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=avisekh3110&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=avisekh3110&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=avisekh3110&show_icons=true" />
-</picture>
 
-<hr>
-<h2 align="center"><img src="https://i.imgur.com/WkC2Lqe.gif" width="100px"></h2>
-<h2 align="center"><b>Connect With Me</b></h2>
-<div align="center">
-  
 <a href="https://github.com/avisekh3110" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
