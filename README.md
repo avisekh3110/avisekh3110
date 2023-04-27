@@ -14,9 +14,17 @@
 - <h4>Watching Anime 👻
 - <h4>Looking for Opportunities 👀
 
-<h4/>
-
-<h4/>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=avisekh3110&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=avisekh3110&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=avisekh3110&show_icons=true" />
+</picture>
 
 <hr>
 <h2 align="center"><img src="https://i.imgur.com/WkC2Lqe.gif" width="100px"></h2>
@@ -44,7 +52,7 @@
  <br/>
   <img src="https://profile-counter.glitch.me/avisekh3110/count.svg" />
 </p>
-  
+
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
