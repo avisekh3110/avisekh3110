@@ -10,7 +10,7 @@
 
 ## **I'm Currently**
 
-<img align="right" alt="coding" width="200" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" >
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" >
 
 - <h4>Working on <a href="https://github.com/avisekh3110/mywebsite">My Portfolio Website</a> 👨‍💻
 - <h4>Learning C++ and ReactJs 🤘
@@ -22,7 +22,6 @@
   <h2 align="center"><img src="https://i.imgur.com/WkC2Lqe.gif" width="100px"></h2>
   <h2 align="center"><b>Connect With Me</b></h2>
   <div align="center">
-
 
 <a href="https://github.com/avisekh3110" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
