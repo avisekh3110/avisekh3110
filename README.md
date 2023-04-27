@@ -1,6 +1,4 @@
-## **I'm Avisekh Sabi** <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-<hr>
+## **I'm Avisekh Sabi**
 
 <h4>A 19-year-old <b>web-developer</b> with expertise in <b>ReactJs</b> and <b>C++</b> . I have a solid understanding of JavaScript and TypeScript, and basic knowledge of Python.<h4>
 <br>
