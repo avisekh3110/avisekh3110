@@ -41,21 +41,18 @@
 
 <hr>
 
-<h2 align="center">Github Statistics</h2>
-<p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=avisekh3110&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>
-
-<p align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avisekh3110&layout=compact&theme=gotham" alt="languages" height="165">
-</p></p>
+<h2 align="center"><b>Github Statistics</b></h2>
+<p align="center">
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=avisekh3110&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480" height="165"/>
+&nbsp;&nbsp;
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avisekh3110&layout=compact&theme=gotham" alt="languages" height="165"/>
+</p>
+<br><br><br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avisekh3110&layout=compact&theme=gotham" alt="avisekh3110" /></p>
 
 <p align="center">
  <img width="600" height="50" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
 </p>
-<hr>
-
 <hr>
 <p align="center"> 
    Visitor Count
