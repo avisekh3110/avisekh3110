@@ -1,4 +1,6 @@
-<h1><b>I'm Avisekh Sabi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+## **I'm Avisekh Sabi** <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+<hr>
 
 <h4>A 19-year-old <b>web-developer</b> with expertise in <b>ReactJs</b> and <b>C++</b> . I have a solid understanding of JavaScript and TypeScript, and basic knowledge of Python.<h4>
 <br>
@@ -17,11 +19,12 @@
 - <h4>Coding With Snacks 😋
 - <h4>Watching Anime 👻
 - <h4>Looking for Opportunities 👀
-  </div>
-  <hr>
-  <h2 align="center"><img src="https://i.imgur.com/WkC2Lqe.gif" width="100px"></h2>
-  <h2 align="center"><b>Connect With Me</b></h2>
-  <div align="center">
+
+</div>
+<hr>
+<h2 align="center"><img src="https://i.imgur.com/WkC2Lqe.gif" width="100px"></h2>
+<h2 align="center"><b>Connect With Me</b></h2>
+<div align="center">
 
 <a href="https://github.com/avisekh3110" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
