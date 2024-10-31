@@ -1,7 +1,7 @@
 ## **I'm Avisekh Sabi** <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <h4>Hi there..!!<br>
-I am a 19-year-old <b>Full Stack Web developer</b> using Reactjs and Express with typescript and tailwindCSS. Also an UX/UI designer using Figma
+21-year-old <b>Full Stack Web developer</b> using Reactjs and Express with typescript and tailwindCSS. Also an UX/UI designer using Figma
 Side hustle as an Artist, Video Editor and Youtuber. I also hold expertise in Threejs and P5js and Basic of python and C++.<h4>
 <br>
 <p align="center">
